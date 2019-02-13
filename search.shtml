@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Matrimonial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- css files -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+   <link rel="stylesheet" href="css/styleold.css">
+</head>
+
+<body >
+
+<!--#include file="profile.shtml" -->
+
+           <!-- Searchbar -->
+           <div class="searchbar searchbar1">
+                <div class="container">
+                <div class="row">
+                    <div class="col-md-2">
+                                         <div class="form-group">
+                                                 <label for="exampleFormControlSelect1">Profile For</label>
+                                                 <select class="form-control" id="exampleFormControlSelect1">
+                                                 <option>Bride</option>
+                                                 <option>Groom</option>
+                                              
+                                                 </select>
+                                             </div>
+                    </div>
+     
+                    <div class="col-md-2">
+                         <div class="form-group">
+                                 <label for="exampleFormControlSelect1">Min Age</label>
+                                 <select class="form-control" id="exampleFormControlSelect1">
+                                 <option>18</option>
+                                 <option>19</option>
+                                 <option>20</option>
+                                 <option>21</option>
+                                 <option>22</option>
+                                 </select>
+                             </div>
+     </div>
+     
+     
+     <div class="col-md-2">
+             <div class="form-group">
+                     <label for="exampleFormControlSelect1">Max Age</label>
+                     <select class="form-control" id="exampleFormControlSelect1">
+                     <option>40</option>
+                     <option>41</option>
+                     <option>43</option>
+                     <option>44</option>
+                     <option>45</option>
+                     </select>
+                 </div>
+     </div>
+     
+     <div class="col-md-3 chauli-caste">
+             <div class="form-group">
+                     <label for="exampleFormControlSelect1">Qualification</label>
+                     <select class="form-control" id="exampleFormControlSelect1">
+                     <option>Select</option>
+                     <option>B.E.</option>
+                     <option>B.A.</option>
+                     <option>BSc</option>
+                     <option>Bcom</option>
+                     </select>
+                 </div>
+     </div>
+     
+                                            
+                                                 <div class="col-md-3">
+                                                           <button type="submit" class="btn btn-primary"><i class="fas fa-search"></i> Search</button>
+                                                           </div>
+     </div>
+     </div>
+            </div>
+
+
+
+
+
+
+<div class="card card3 card4">
+        <div class="card-header"> Id-25687</div>
+    <div class="row no-gutters">
+        <div class="col-md-5 col-xs-12">
+            <img src="img/1.jpg" class="img-fluid" class="mx-auto" alt="">
+        </div>
+        <div class="col">
+            <div class="card-block px-2">
+                
+                <h4 class="card-title">Aamukh Dhamukh</h4>
+                <div class="container-fluid" >
+                <div class="row">
+                        <div class="col-md-3 col-sm-12">
+                          <b>Age</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                           - 24yrs
+                        </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Height</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                            - 5ft 3in
+                                                    </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Location</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                           - Pune
+                        </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Caste</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                            - Kunbi
+                                                    </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Education</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                            - B.E.
+                                                    </div>
+            
+                </div>
+                        
+                      </div>
+             
+                      <a href="profile-of-person.shtml" class="btn btn-primary btn1"><i class="fas fa-id-card"></i> View Profile</a>
+        
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+<div class="card card3 card4">
+        <div class="card-header"> Id-25687</div>
+    <div class="row no-gutters">
+        <div class="col-md-5 col-xs-12">
+            <img src="img/1.jpg" class="img-fluid" class="mx-auto" alt="">
+        </div>
+        <div class="col">
+            <div class="card-block px-2">
+                
+                <h4 class="card-title">Aamukh Dhamukh</h4>
+                <div class="container-fluid">
+                <div class="row">
+                        <div class="col-md-3 col-sm-12">
+                          <b>Age</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                           - 24yrs
+                        </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Height</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                            - 5ft 3in
+                                                    </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Location</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                           - Pune
+                        </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Caste</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                            - Kunbi
+                                                    </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Education</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                            - B.E.
+                                                    </div>
+            
+                </div>
+                        
+                      </div>
+             
+                <a href="profile-of-person.shtml" class="btn btn1 btn-primary"><i class="fas fa-id-card"></i> View Profile</a>
+        
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="card card3 card4">
+        <div class="card-header"> Id-25687</div>
+    <div class="row no-gutters">
+        <div class="col-md-5 col-xs-12">
+            <img src="img/1.jpg" class="img-fluid" class="mx-auto" alt="">
+        </div>
+        <div class="col">
+            <div class="card-block px-2">
+                
+                <h4 class="card-title">Aamukh Dhamukh</h4>
+                <div class="container-fluid">
+                <div class="row">
+                        <div class="col-md-3 col-sm-12">
+                          <b>Age</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                           - 24yrs
+                        </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Height</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                            - 5ft 3in
+                                                    </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Location</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                           - Pune
+                        </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Caste</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                            - Kunbi
+                                                    </div>
+            
+                        <div class="col-md-3 col-sm-12">
+                          <b>Education</b>
+                        </div>
+                        <div class="col-md-9 col-sm-12">
+                            - B.E.
+                                                    </div>
+            
+                </div>
+                        
+                      </div>
+             
+                <a href="profile-of-person.shtml" class="btn btn1 btn-primary"><i class="fas fa-id-card"></i> View Profile</a>
+        
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+
+</div> 
+      
+<!--#include file="footer.shtml" -->

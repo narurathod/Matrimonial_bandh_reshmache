@@ -1,0 +1,126 @@
+<div class="colour">
+    <div class="container-fluid" >
+        
+        <div class="chauli-dashboard" >    
+          
+        </div>  
+            <div class="row">
+            <div class="col-md-2 sidebar-section " style="margin-top:20px;">
+              <div class="pic-and-name">
+                <div class="userprofile">
+                     <img src="img/6.jpg" class=" mx-auto d-block" >
+   
+                </div>
+               <h4 style="margin-top:10px; font-weight:400px; text-align: center;">Narendra Rathod</h4>
+              </div>
+               <div class="">
+                          <div class="card border-primary mb-3 top_card">
+                                  <h4 class="card-header"> Profile</h4>
+                                  <div class="card-body text-primary">
+                                  <a class="card-title1" href="#"><i class="far fa-edit"></i> Change Profile Photo</a>
+                                  <a class="card-title1" href="#"><i class="far fa-edit"></i> Edit Profile Details</a>
+                                  </div>
+                              </div>
+                              <div class="card border-primary mb-3 top_card">
+                                    <h4 class="card-header"> Search</h4>
+                                    <div class="card-body text-primary">
+                                    <a class="card-title1" href="search.shtml"><i class="fas fa-search"></i> Search Your Match</a>
+                                    </div>
+                                </div>
+                              <!-- <div class="card border-primary mb-3 top_card">
+                                <h4 class="card-header"> Search</h4>
+                                <div class="card-body text-primary card-body1">
+                                    <div class="form-group">
+                                        <label for="exampleFormControlSelect1">Profile For</label>
+                                        <select class="form-control" id="exampleFormControlSelect1">
+                                        <option>Bride</option>
+                                        <option>Groom</option>
+                                     
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleFormControlSelect1">Min Age</label>
+                                        <select class="form-control" id="exampleFormControlSelect1">
+                                        <option>18</option>
+                                        <option>19</option>
+                                        <option>20</option>
+                                        <option>21</option>
+                                        <option>22</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleFormControlSelect1">Max Age</label>
+                                        <select class="form-control" id="exampleFormControlSelect1">
+                                        <option>40</option>
+                                        <option>41</option>
+                                        <option>43</option>
+                                        <option>44</option>
+                                        <option>45</option>
+                                        </select>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="exampleFormControlSelect1">Caste</label>
+                                        <select class="form-control" id="exampleFormControlSelect1">
+                                        <option>Any</option>
+                                        <option>Kunbi</option>
+                                        <option>Maratha</option>
+                                        <option>Banjara</option>
+                                        <option>Chambhar</option>
+                                        </select>
+                                    </div>
+                                    <button type="submit" class="btn btn-primary btn-block"><i class="fas fa-search"></i> Search</button>
+
+                                </div>
+                            </div> -->
+  
+                          <div class="card border-primary mb-3 top_card">
+                                  <h4 class="card-header">Desired Partner</h4>
+                                  <div class="card-body text-primary">
+                                  <a class="card-title" href="edit-desired-profile.shtml"><i class="far fa-edit"></i> Edit Desired Partner</a>
+                                  <a class="card-title1" href="desired-profile.shtml"><i class="far fa-edit"></i> View Desired Partner</a>
+                                  </div>
+                              </div>
+                              <div class="card border-primary mb-3 top_card">
+                                      <h4 class="card-header">Settings</h4>
+                                      <div class="card-body text-primary">
+                                      <a class="card-title" href="#"><i class="fas fa-cog"></i> Change Password</a>
+                                      </div>
+                                  </div>
+               </div>
+                </div>
+        <div class="col-md-10 main-section">
+                          <div class="chauli-name">Hi Narendra (3452341237)
+                             
+                              <ul class="nav justify-content-end nav1">
+                                  <li class="nav-item nav-item1"  >
+                                  <a class="nav-link nav-link1 active" href="dashboard.shtml"><i class="fas fa-tachometer-alt"></i> Dashboard</a>
+                                  </li>
+                                  <li class="nav-item nav-item1">
+                                          <a class="nav-link nav-link1" href="index.shtml"><i class="fas fa-sign-out-alt"></i> Logout</a>
+                                      </li>
+                          </ul>
+                          </div>
+                         
+                                      
+                                          <div class="complete-profile">
+                                                  <h6 class="com-pro"><i class="fas fa-user-edit"></i> Complete your Profile</h6>
+  
+                                                 <div class="progress">
+                                                     <div class="progress-bar bg-info" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">50%</div>
+                                                    </div>
+                                          </div>
+  <!-- Seen only on sm device -->
+  
+  <div class="d-block d-sm-none">
+    <div class="card border-primary mb-3 top_card">
+            <h4 class="card-header">Options</h4>
+            <div class="card-body text-primary"  >
+            <a style="text-align:center;" class="card-title" href="#"><i class="far fa-edit"></i> Change Profile Photo</a>
+            <a style="text-align:center;" class="card-title" href="#"><i class="far fa-edit"></i> Edit Profile Details</a>
+            <a style="text-align:center;" class="card-title" href="search.shtml"><i class="fas fa-search"></i> Search your Match</a>
+            <a style="text-align:center;" class="card-title" href="edit-desired-profile.shtml"><i class="far fa-edit"></i> Edit Desired Partner</a>
+            <a style="text-align:center;" class="card-title" href="desired-profile.shtml"><i class="far fa-edit"></i> View Desired Partner</a>
+            <a style="text-align:center;" class="card-title" href="#"><i class="far fa-edit"></i> Change Password</a>
+            </div>
+        </div>
+    </div>

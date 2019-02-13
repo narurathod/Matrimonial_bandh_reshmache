@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Matrimonial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- css files -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+   <link rel="stylesheet" href="css/styleold.css">
+</head>
+
+<body >
+
+<!--#include file="profile.shtml" -->
+
+<!-- Basic info -->
+      <div class="card border-primary mb-3 card2">
+            <div class="card-header">
+              <b style="font-size: 1.25rem;">Basic Info</b>
+            </div>
+            <div class="card-body">
+              <div class="row">
+                <div class="col-md-3 col-sm-12">
+                  <b>Age</b>
+                </div>
+                <div class="col-md-9 col-sm-12">
+                   - 
+                </div>
+    
+                <div class="col-md-3 col-sm-12">
+                  <b>Maritial Status</b>
+                </div>
+                <div class="col-md-9 col-sm-12">
+                    -
+                                            </div>
+    
+                <div class="col-md-3 col-sm-12">
+                  <b>Height</b>
+                </div>
+                <div class="col-md-9 col-sm-12">
+                   -
+                </div>
+    
+                <div class="col-md-3 col-sm-12">
+                  <b>Countries</b>
+                </div>
+                <div class="col-md-9 col-sm-12">
+                    -
+                                            </div>
+    
+                <div class="col-md-3 col-sm-12">
+                  <b>States</b>
+                </div>
+                <div class="col-md-9 col-sm-12">
+                    -
+                                            </div>
+    
+                <div class="col-md-3 col-sm-12">
+                  <b>Cities</b>
+                </div>
+                <div class="col-md-9 col-sm-12">
+                    -
+                                            </div>
+    
+                
+              </div>
+            </div>
+          </div>
+
+
+<!-- Religion and Ethinicity Details -->
+          <div class="card border-primary mb-3 card2">
+                <div class="card-header">
+                  <b style="font-size: 1.25rem;">Religion & Ethinicity Details</b>
+                </div>
+                <div class="card-body">
+                  <div class="row">
+                    <div class="col-md-3 col-sm-12">
+                      <b>Religion</b>
+                    </div>
+                    <div class="col-md-9 col-sm-12">
+                       - 
+                    </div>
+        
+                    <div class="col-md-3 col-sm-12">
+                      <b>Caste</b>
+                    </div>
+                    <div class="col-md-9 col-sm-12">
+                        -
+                                                </div>
+        
+                    <div class="col-md-3 col-sm-12">
+                      <b>Mother Tongue</b>
+                    </div>
+                    <div class="col-md-9 col-sm-12">
+                       -
+                    </div>
+
+                  </div>
+                </div>
+              </div>
+<!-- Education and Work Details -->
+          <div class="card border-primary mb-3 card2">
+                <div class="card-header">
+                  <b style="font-size: 1.25rem;">Education & Work Details</b>
+                </div>
+                <div class="card-body">
+                  <div class="row">
+                    <div class="col-md-3 col-sm-12">
+                      <b>Highest Education</b>
+                    </div>
+                    <div class="col-md-9 col-sm-12">
+                       - 
+                    </div>
+        
+                    <div class="col-md-3 col-sm-12">
+                      <b>Occupation</b>
+                    </div>
+                    <div class="col-md-9 col-sm-12">
+                        -
+                                                </div>
+
+                  </div>
+                </div>
+              </div>
+
+    
+<!-- Lifestyle Details -->
+<div class="card border-primary mb-3 card2">
+        <div class="card-header">
+          <b style="font-size: 1.25rem;">Lifestyle Details</b>
+        </div>
+        <div class="card-body">
+          <div class="row">
+            <div class="col-md-3 col-sm-12">
+              <b>Dietary Habbit</b>
+            </div>
+            <div class="col-md-9 col-sm-12">
+               - 
+            </div>
+
+            <div class="col-md-3 col-sm-12">
+              <b>Drinking Habbit</b>
+            </div>
+            <div class="col-md-9 col-sm-12">
+                -
+                                        </div>
+
+            <div class="col-md-3 col-sm-12">
+              <b>Smoking Habbit</b>
+            </div>
+            <div class="col-md-9 col-sm-12">
+               -
+            </div>
+
+            <div class="col-md-3 col-sm-12">
+              <b>Complexion</b>
+            </div>
+            <div class="col-md-9 col-sm-12">
+                -
+                                        </div>
+
+            <div class="col-md-3 col-sm-12">
+              <b>Body Type</b>
+            </div>
+            <div class="col-md-9 col-sm-12">
+                -
+                                        </div>
+
+            <div class="col-md-3 col-sm-12">
+              <b>About Desired Partner</b>
+            </div>
+            <div class="col-md-9 col-sm-12">
+                -
+                                        </div>
+
+            
+          </div>
+        </div>
+      </div>
+
+    </div>
+      </div>
+  </div>
+
+        </div> 
+      
+      
+     <!--#include file="footer.shtml" -->

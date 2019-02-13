@@ -1,0 +1,77 @@
+<!-- footer -->
+<div class="footer">
+    <div class="row">
+      <div class="col-md-3">
+        <h1>Matrimony & Wedding Services</h1>
+        <p>It is a long established factor that a reader with be destracted by the readable content of a page when looking at its layout. The point of using lorem ipsum is</p>
+      </div>
+      <div class="col-md-3">
+          <h1>Help & Support</h1>
+          <p><a href="#">Payment Option</a> <br><a href="contact-html.shtml"> Contact us</a></p>
+        </div>
+        <div class="col-md-3">
+            <h1>Quick Links</h1>
+            <p><a href="#">Privacy Policy</a><br><a href="#">Terms & conditions</a></p>
+          </div>
+          <div class="col-md-3">
+              <h1>Contact Us</h1>
+              <p>Mob No: <br>9890345673/<br>7895672341<br><a href="#" class="fab fa-facebook"></a>
+                <a href="#" class="fab fa-instagram"></a></p>
+              
+            </div>
+    </div>
+    <div class="chauli">
+      <p>Copyright @ 2019<a href="https://www.chauli.com/"> Chauli Technologies </a> | All Right Reserved.</p>
+    </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  
+          <script>
+            $('#carouselExample').on('slide.bs.carousel', function (e) {
+    
+      
+    var $e = $(e.relatedTarget);
+    var idx = $e.index();
+    
+    var itemsPerSlide = 4;
+    var totalItems = $('.carousel-item').length;
+    
+    if (idx >= totalItems-(itemsPerSlide-1)) {
+        var it = itemsPerSlide - (totalItems - idx);
+        for (var i=0; i<it; i++) {
+            // append slides to end
+            if (e.direction=="left") {
+                $('.carousel-item').eq(i).appendTo('.carousel-inner');
+            }
+            else {
+                $('.carousel-item').eq(0).appendTo('.carousel-inner');
+            }
+        }
+    }
+    });
+    
+    
+    $('#carouselExample').carousel({ 
+                interval: 2000
+        });
+    
+    
+    $(document).ready(function() {
+    /* show lightbox when clicking a thumbnail */
+    $('a.thumb').click(function(event){
+      event.preventDefault();
+      var content = $('.modal-body');
+      content.empty();
+        var title = $(this).attr("title");
+        $('.modal-title').html(title);        
+        content.html($(this).html());
+        $(".modal-profile").modal({show:true});
+    });
+    
+    });
+      </script>      
+       
+        </body>
+        </html>

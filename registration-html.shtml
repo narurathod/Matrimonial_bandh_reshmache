@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Matrimonial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- css files -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+   <link rel="stylesheet" href="css/styleold.css">
+</head>
+
+<body >
+<!--#include file="header.shtml" -->
+<!-- Heading -->
+<div class="member-login">
+<h1>Register & Find a Perfect Life Partner</h1>
+<hr>
+</div>
+
+<!-- form -->
+
+<form  class="form-container-register">
+    <div class="form-group">
+        <label for="exampleFormControlSelect1">Registering For</label>
+        <select class="form-control" id="exampleFormControlSelect1">
+          <option>Select Registering For</option>
+          <option>Self</option>
+          <option>Daughter</option>
+          <option>Son</option>
+          <option>Brother</option>
+          <option>Sister</option>
+          <option>Relative</option>
+          <option>Friend</option>
+        </select>
+        </div>
+      
+      
+                                                                        <div class="form-group">
+                                                                            <label>First Name </label>
+                                                                            <input type="text" class="form-control" placeholder="First Name">
+                                                                            <span class="help-block"> Once you enter name , it will not changed.</span>
+                                                                            </div>
+                               
+                                                                <div class="form-group">
+                                                                <label>Last Name</label>
+                                                                <input type="text" class="form-control"  placeholder="Last Name">
+                                                                <span class="help-block"> Once you enter name , it will not changed.</span>
+                                                                </div>
+      
+                                                    <div class="form-group">
+                                                        <label>Middle Name</label>
+                                                        <input type="text" class="form-control" placeholder="Middle Name">
+                                                        <span class="help-block"> Once you enter name , it will not changed.</span>
+                                                        
+                                                        </div>
+            
+                                             
+        
+                                        <div class="form-group">
+                                            <label for="exampleInputEmail1">Email address</label>
+                                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                                            
+                                          </div>
+   
+                                    <div class="form-group">
+                                    <label>Mobile Number</label>
+                                    <input type="text" class="form-control"  placeholder="Mobile Number">
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="exampleInputPassword1">Password</label>
+                                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+                                      </div>
+  
+                                    <div class="form-group">
+                                    <label>Confirm Password</label>
+                                    <input type="password" class="form-control"  placeholder="Confirm Password">
+                                    </div>
+
+                                            <div class="form-group">
+                                                <label>Date of Birth</label>
+                                                <input type="text" class="form-control" placeholder="DD/MM/YYYY">
+                                                
+                                                </div>
+  
+                                      <div class="form-group">
+                                          <label for="exampleFormControlSelect1">Gender</label>
+                                          <select class="form-control" id="exampleFormControlSelect1">
+                                            <option>Select Gender</option>
+                                            <option>Male</option>
+                                            <option>Female</option>
+                                          </select>
+                                          </div>
+                                          
+                                          <div class="form-group">
+                                              <label for="exampleFormControlSelect1">Caste</label>
+                                              <select class="form-control" id="exampleFormControlSelect1">
+                                                <option>Your Caste</option>
+                                                <option value="1" >Kunbi</option>
+                         
+                                                <option value="2" >Maratha</option>
+
+                                              </select>
+                                              </div>
+
+
+<div class="form-check" >
+    <input type="checkbox" class="form-check-input" id="exampleCheck1" >
+    <label class="form-check-label" for="exampleCheck1">I accept the <a href="#">Terms & Conditions</a></label>
+  </div>
+
+        <button type="submit" class="btn btn-primary" style="background-color:#7a0026; border-color:#7a0026;">Register</button>
+       <label style="display: block; margin-top:10px;">Already have an account? <a href="#">Login here</a></label>
+ </form>
+<!--#include file="footer.shtml" -->
+         
+      
+      
+     

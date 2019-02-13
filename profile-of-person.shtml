@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Matrimonial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- css files -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+   <link rel="stylesheet" href="css/styleold.css">
+</head>
+
+<body >
+
+<!--#include file="profile.shtml" -->
+
+<div class="row">
+    <div class="col-md-9">
+<div class="card card3">
+        <div class="row no-gutters">
+            <div class="col-md-5 col-xs-6">
+                <img src="img/1.jpg" class="img-fluid" class="text-center" alt="">
+            </div>
+            <div class="col">
+                <div class="card-block px-2">
+                    <h4 class="card-title">Aamukh Dhamukh</h4>
+                    <h6 class="card-title">Id-123456</h6>
+                    <div class="container-fluid info-1">
+                    <div class="row">
+                    
+                            <div class="col-md-3 col-xs-5">
+                              <b>Age</b>
+                            </div>
+                            <div class="col-md-9 col-xs-5">
+                               - 24yrs
+                            </div>
+                
+                            <div class="col-md-3 col-xs-5">
+                              <b>Height</b>
+                            </div>
+                            <div class="col-md-9 col-xs-7">
+                                - 5ft 3in
+                                                        </div>
+                
+                            <div class="col-md-3 col-xs-5">
+                              <b>Location</b>
+                            </div>
+                            <div class="col-md-9 col-xs-7">
+                               - Pune
+                            </div>
+                
+                            <div class="col-md-3 col-xs-5">
+                              <b>Caste</b>
+                            </div>
+                            <div class="col-md-9 col-xs-7">
+                                - Kunbi
+                                                        </div>
+                
+                            <div class="col-md-3 col-xs-5">
+                              <b>Education</b>
+                            </div>
+                            <div class="col-md-9 col-xs-7">
+                                - B.E.
+                                                        </div>
+                
+                    </div>
+                            
+                          </div>
+                 
+                    <a href="#" class="btn btn-primary">Connect <i class="fas fa-angle-double-right"></i></a>
+            
+                </div>
+            </div>
+        </div>
+  </div>
+
+    <nav class="nav-profile-person" >
+            <div class="nav nav-tabs justify-content-center" id="nav-tab" role="tablist">
+              <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Personal Details</a>
+              <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Family Details</a>
+              <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Partner Preference</a>
+            </div>
+          </nav>
+          <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                    HI..My self kajal..I have done D.ted .I am very simply & sober person.i have one bro and two sis. my family is very happy ..takes life as it comes, very practical, understanding caring and very supportive..I like to reading,writing & Watch to Movie.I am very happy go lucky person would like to have open minded partner with his family values.I am located@Dharagir, Taluka-Airandol,Dis-Jalgaon.& my profile created by my Sis name is Ashwini patil from Pune
+                   <hr>
+                   <div class="headings">
+                        <h5>Basic Information</h5>
+                    <div class="row">
+                        
+                            <div class="col-md-3 col-sm-6">
+                              <b>Name</b>
+                            </div>
+                            <div class="col-md-9 col-sm-6">
+                               - Aamukh Dhamukh
+                            </div>
+                
+                            <div class="col-md-3 col-sm-6">
+                              <b>Date of Birth</b>
+                            </div>
+                            <div class="col-md-9 col-sm-6">
+                                - 06/06/1994
+                                                        </div>
+                
+                            <div class="col-md-3 col-sm-12">
+                              <b>Place of Birth</b>
+                            </div>
+                            <div class="col-md-9 col-sm-12">
+                               - Pune
+                            </div>
+                
+                            <div class="col-md-3 col-sm-12">
+                              <b>Age</b>
+                            </div>
+                            <div class="col-md-9 col-sm-12">
+                                - 24 yrs
+                                                        </div>
+                
+                            <div class="col-md-3 col-sm-12">
+                              <b>Gender</b>
+                            </div>
+                            <div class="col-md-9 col-sm-12">
+                                - Female
+                                                        </div>
+                              <div class="col-md-3 col-sm-6">
+                                <b>Height</b>
+                                </div>
+                                <div class="col-md-9 col-sm-6">
+                                    - 5ft 3in
+                                </div>
+                    
+                                <div class="col-md-3 col-sm-6">
+                                <b>Location</b>
+                                </div>
+                                <div class="col-md-9 col-sm-6">
+                                    - Pune
+                                                            </div>
+                    
+                                <div class="col-md-3 col-sm-12">
+                                <b>Marital Status</b>
+                                </div>
+                                <div class="col-md-9 col-sm-12">
+                                    - Never Married
+                                </div>
+                    
+                                <div class="col-md-3 col-sm-12">
+                                <b>Mother Tongue</b>
+                                </div>
+                                <div class="col-md-9 col-sm-12">
+                                    - Marathi
+                                                            </div>                           
+
+                
+                    </div>
+                            
+                          </div>
+
+
+
+                          <hr>
+                   <div class="headings">
+                        <h5>Qualification & Career</h5>
+                    <div class="row">
+                        
+                            <div class="col-md-3 col-sm-6">
+                              <b>Educational Qualification</b>
+                            </div>
+                            <div class="col-md-9 col-sm-6">
+                               - B.E.
+                            </div>
+                
+                            <div class="col-md-3 col-sm-6">
+                              <b>College/University</b>
+                            </div>
+                            <div class="col-md-9 col-sm-6">
+                                - Not Specified
+                                                        </div>
+                
+                            <div class="col-md-3 col-sm-12">
+                              <b>Working As</b>
+                            </div>
+                            <div class="col-md-9 col-sm-12">
+                               - Web Developer
+                            </div>
+                
+                            <div class="col-md-3 col-sm-12">
+                              <b>Annual Income</b>
+                            </div>
+                            <div class="col-md-9 col-sm-12">
+                                - 4 Lakhs
+                                                        </div>
+                
+                     </div>
+                   </div>
+
+
+
+                   <hr>
+                   <div class="headings">
+                        <h5>Social Background</h5>
+                    <div class="row">
+                        
+                            <div class="col-md-3 col-sm-6">
+                              <b>Religion</b>
+                            </div>
+                            <div class="col-md-9 col-sm-6">
+                               - Hindu
+                            </div>
+                
+                            <div class="col-md-3 col-sm-6">
+                              <b>Caste</b>
+                            </div>
+                            <div class="col-md-9 col-sm-6">
+                                - Kunbi
+                                                        </div>
+                
+                            <div class="col-md-3 col-sm-12">
+                              <b>Manglik</b>
+                            </div>
+                            <div class="col-md-9 col-sm-12">
+                               - No
+                            </div>
+                
+                            <div class="col-md-3 col-sm-12">
+                              <b>Gotra</b>
+                            </div>
+                            <div class="col-md-9 col-sm-12">
+                                - Not Specified
+                                                        </div>
+                
+                     </div>
+                   </div>
+
+
+
+                   <hr>
+                   <div class="headings">
+                        <h5>Lifestyle</h5>
+                    <div class="row">
+                        
+                            <div class="col-md-3 col-sm-6">
+                              <b>Diet</b>
+                            </div>
+                            <div class="col-md-9 col-sm-6">
+                               - Veg
+                            </div>
+                
+                            <div class="col-md-3 col-sm-6">
+                              <b>Smoke</b>
+                            </div>
+                            <div class="col-md-9 col-sm-6">
+                                - Never
+                                                        </div>
+                
+                            <div class="col-md-3 col-sm-12">
+                              <b>Drink</b>
+                            </div>
+                            <div class="col-md-9 col-sm-12">
+                               - Never
+                            </div>
+                
+        
+                    </div>
+                   </div>
+
+
+
+                </div>
+            <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                    
+                    <div class="headings">
+                         <h5>Family Information</h5>
+                     <div class="row">
+                         
+                             <div class="col-md-3 col-sm-6">
+                               <b>Father's Occupation</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                - Business
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-6">
+                               <b>Mother's Occupation</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                 - Homemaker
+                                                         </div>
+                 
+                             <div class="col-md-3 col-sm-12">
+                               <b>Married Sister(s)</b>
+                             </div>
+                             <div class="col-md-9 col-sm-12">
+                                - 1
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-12">
+                               <b>Unmarried Sister (s)</b>
+                             </div>
+                             <div class="col-md-9 col-sm-12">
+                                 - 1
+                                                         </div>
+                            <div class="col-md-3 col-sm-12">
+                                <b>Married Brother (s)</b>
+                                </div>
+                                <div class="col-md-9 col-sm-12">
+                                    - 1
+                                </div>
+                    
+                                <div class="col-md-3 col-sm-12">
+                                <b>Unmarried Brother (s)</b>
+                                </div>
+                                <div class="col-md-9 col-sm-12">
+                                    - 1
+                                                            </div>
+                            
+                     
+                                
+                 
+                     </div>
+                    </div>
+
+
+                    <hr>
+                    <div class="headings">
+                         <h5>Family Values & Native Information</h5>
+                     <div class="row">
+                         
+                             <div class="col-md-3 col-sm-6">
+                               <b>Native Country</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                - India
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-6">
+                               <b>Native State</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                 - Maharashtra
+                                                         </div>
+                 
+                             <div class="col-md-3 col-sm-12">
+                               <b>Native City</b>
+                             </div>
+                             <div class="col-md-9 col-sm-12">
+                                - Pune
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-12">
+                               <b>Family Values</b>
+                             </div>
+                             <div class="col-md-9 col-sm-12">
+                                 - Traditional
+                                                         </div>
+                            <div class="col-md-3 col-sm-12">
+                                <b>Family Status</b>
+                                </div>
+                                <div class="col-md-9 col-sm-12">
+                                    - Midde Class
+                                </div>
+                    
+                            
+                     
+                                
+                 
+                     </div>
+                    </div>
+
+
+
+            </div>
+            <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">
+                    
+                    <div class="headings">
+                         <h5>Basic Information</h5>
+                     <div class="row">
+                         
+                             <div class="col-md-3 col-sm-6">
+                               <b>Age</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                - Not Specified
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-6">
+                               <b>Height</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                 - Above 5ft
+                                                         </div>
+                 
+                             <div class="col-md-3 col-sm-12">
+                               <b>Manglik</b>
+                             </div>
+                             <div class="col-md-9 col-sm-12">
+                                -No
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-12">
+                               <b>Special Cases</b>
+                             </div>
+                             <div class="col-md-9 col-sm-12">
+                                 - Not Specified
+                                                         </div>
+               
+                     </div>
+                    </div>
+
+                    <hr>
+                    <div class="headings">
+                         <h5>Qualification & Career</h5>
+                     <div class="row">
+                         
+                             <div class="col-md-3 col-sm-6">
+                               <b>Educational Qualification</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                - Not Specified
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-6">
+                               <b>Annual Income</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                 - Not Specified
+                                                         </div>
+     
+                     </div>
+                    </div>
+
+
+
+
+
+                    <hr>
+                    <div class="headings">
+                         <h5>Social Background</h5>
+                     <div class="row">
+                         
+                             <div class="col-md-3 col-sm-6">
+                               <b>Religion</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                - Hindu
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-6">
+                               <b>Caste</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                 - Kunbi
+                                                         </div>
+                 
+                             <div class="col-md-3 col-sm-12">
+                               <b>Mother Tongue</b>
+                             </div>
+                             <div class="col-md-9 col-sm-12">
+                                - Not Specified
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-12">
+                               <b>Gotra</b>
+                             </div>
+                             <div class="col-md-9 col-sm-12">
+                                 - Not Specified
+                                                         </div>
+                            
+                     </div>
+                    </div>
+ 
+                    <hr>
+                    <div class="headings">
+                         <h5>Lifestyle</h5>
+                     <div class="row">
+                         
+                             <div class="col-md-3 col-sm-6">
+                               <b>Diet</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                - Veg
+                             </div>
+                 
+                             <div class="col-md-3 col-sm-6">
+                               <b>Smoke</b>
+                             </div>
+                             <div class="col-md-9 col-sm-6">
+                                 - Never
+                                                         </div>
+                 
+                             <div class="col-md-3 col-sm-12">
+                               <b>Drink</b>
+                             </div>
+                             <div class="col-md-9 col-sm-12">
+                                - Never
+                             </div>
+      
+                     </div>
+                    </div>
+
+
+
+
+            </div>
+          </div>
+    </div>
+<div class="col-md-3 recon" >
+
+        <div class="recommended recommended1">
+                <h4><i class="fas fa-user"></i> Recommended Profiles</h4>
+      </div>
+
+        <div class="card card1" style="margin:0px;">
+                <img class="card-img-top" src="img/1.jpg" alt="Card image cap">
+                <div class="card-body">
+                  <h5 class="card-title">Aamukh Dhamukh</h5>
+                  <p class="card-text">Qualification: B.E.<br>Age: 25 <br>Location: Pune</p>
+                  <a href="#" class="btn btn-primary">Connect</a>
+                </div>
+              </div>
+
+              <div class="card card1">
+                    <img class="card-img-top" src="img/1.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title">Aamukh Dhamukh</h5>
+                      <p class="card-text">Qualification: B.E.<br>Age: 25 <br>Location: Pune</p>
+                      <a href="#" class="btn btn-primary">Connect</a>
+                    </div>
+                  </div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+</div>
+</div>
+</div>
+
+</div> 
+      
+<!--#include file="footer.shtml" -->

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Matrimonial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- css files -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+   <link rel="stylesheet" href="css/styleold.css">
+</head>
+
+<body >
+<!--#include file="header.shtml" -->
+<!-- Heading -->
+<div class="member-login">
+<h1>Contact Us</h1>
+<hr>
+</div>
+
+<!-- contact us -->
+
+<div  class="form-container">
+    <div class="row">
+        <div class="col-md-6 contact-address">
+            <h3>We are located at</h3>
+           <p><i class="fas fa-home"></i> R-23, 4th Floor, Ajinkya Vihar, <br> Chandni Chowk, Nashik-424192<br> Maharashtra, India. </p> 
+   
+        <h3>Reach out to us on</h3>
+        <p><i class="fas fa-phone"></i> +91 9876543210</p> 
+    
+     <h3>Send an email to us at</h3>
+        <p><i class="fas fa-envelope"></i> contact@Matrimonial.com</p> 
+     </div>
+        <div class="col-md-6 contact-form">
+            <h3 style="padding:10px; text-align: center;">Ask Us a Query.</h3>
+            <form>
+                    <div class="form-group">
+                            <label>Name </label>
+                            <input type="text" class="form-control" placeholder="">
+                            </div>
+                            <div class="form-group">
+                                    <label for="exampleInputEmail1">Email address</label>
+                                    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="">
+                                  </div>
+                                  <div class="form-group">
+                                  <label>Mobile Number</label>
+                                  <input type="text" class="form-control" placeholder="">
+                                  </div>
+                                  <div class="form-group">
+                                        <label for="exampleFormControlTextarea1">Write your Query</label>
+                                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                      </div>
+                                      <button type="submit" class="btn btn-primary" style="background-color:#7a0026;border-color:#7a0026;">Send</button>
+
+            </form>
+       
+                </div>
+    </div>
+        
+ </div>
+<!--#include file="footer.shtml" -->
+         
+      
+   

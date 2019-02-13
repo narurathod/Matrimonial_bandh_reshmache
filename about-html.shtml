@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Matrimonial</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- css files -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+   <link rel="stylesheet" href="css/styleold.css">
+</head>
+
+<body >
+<!--#include file="header.shtml" -->
+<!-- Heading -->
+<div class="member-login">
+<h1>About Us</h1>
+<hr>
+</div>
+
+<!-- About us -->
+
+<div  class="form-container-about">
+    <div class="row">
+        <div class="col-md-4">
+            <img src="img/ganpati2.png"  alt="wedding-photo">
+        </div>
+        <div class="col-md-8">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pharetra hendrerit purus, eget bibendum mauris vestibulum a. Curabitur feugiat tortor sed neque eleifend, dictum mattis turpis lacinia. Cras ornare erat blandit ornare tincidunt. Nullam condimentum venenatis leo sit amet feugiat. Donec at efficitur tellus. Nam vitae sagittis orci. Etiam sagittis commodo accumsan.
+
+                    Maecenas ornare elit ut massa vulputate, gravida vestibulum nisi viverra. Nunc dapibus odio quis odio accumsan porttitor. Integer odio quam, ornare at enim at, venenatis vehicula arcu. Aenean congue id turpis faucibus hendrerit. Pellentesque quis tincidunt nunc, at tincidunt eros. Fusce dignissim urna at egestas scelerisque. Vestibulum venenatis ante non risus vulputate faucibus. Maecenas interdum varius erat. In hac habitasse platea dictumst. Maecenas hendrerit enim a urna tristique suscipit.
+                    
+                  
+                  Donec vitae sem in ex condimentum sodales. Sed in aliquet nisi. Vestibulum ligula ipsum, malesuada nec aliquam a, consequat pellentesque ex. In sodales eros quis auctor euismod. Quisque vitae elit ex. Nunc non tempus quam. Sed sollicitudin eu urna ut faucibus. Proin imperdiet interdum convallis. Aenean pellentesque dolor ut finibus ullamcorper. Nunc malesuada suscipit nisi, ut elementum nisl tristique quis. Nam leo nunc, pulvinar at feugiat vitae, iaculis quis nisl. Suspendisse sit amet ex in quam feugiat ultrices. Aliquam erat volutpat. Ut tellus erat, venenatis semper facilisis a, lobortis sit amet lectus. Vestibulum congue lacinia nulla, vitae egestas orci fermentum ac. Cras congue porta purus, id tempor tellus semper sed.</p>
+       
+                </div>
+    </div>
+        
+ </div>
+
+         <!--#include file="footer.shtml"  -->
+      
+   

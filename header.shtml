@@ -1,0 +1,42 @@
+
+    <!-- logo -->
+     <div id="logo">
+         <h1>MATRIMONIAL</h1>
+     </div>
+  <nav class="navbar navbar-expand-sm justify-content-end"  >
+         <!-- Toggler/collapsibe Button -->
+  <button class="navbar-toggler custom-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+      <span class="navbar-toggler-icon chauli-icon"></span>
+    </button>
+<!-- Navbar links -->
+ <div class="navbar-collapse" id="collapsibleNavbar">
+      <ul class="navbar-nav collapse mx-auto">
+        <li class="nav-item mx-auto">
+          <a class="nav-link active" href="index.shtml">Home</a>
+        </li>
+        <li class="nav-item mx-auto ">
+          <a class="nav-link" href="#">Rules</a>
+        </li>
+        <li class="nav-item mx-auto">
+          <a class="nav-link" href="about-html.shtml">About</a>
+        </li>
+        <li class="nav-item mx-auto">
+          <a class="nav-link" href="">Payment</a>
+        </li>
+        <li class="nav-item mx-auto">
+          <a class="nav-link" href="contact-html.shtml">Contact</a>
+        </li>
+       
+       
+      </ul>
+        <div class="chauli-rightbar">
+        <a class="nav-link" id="chauli-login-nav" href="login-html.shtml">Login</a>
+        </div>
+     <div class="chauli-rightbar2">
+          <a class="nav-link chauli-registration-nav" href="registration-html.shtml">Registration</a>
+        </div>
+   
+
+</div>
+  
+    </nav>
